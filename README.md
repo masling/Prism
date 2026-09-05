@@ -10,10 +10,10 @@ The game combines the ideas people look for in a **prism game**, **prism light g
 
 [Start the first three chambers free →](https://prismriddle.com/?level=1#game)
 
-- 12 original formal puzzle chambers
+- 80 formal puzzle chambers across eight chapters
 - The first 3 chambers are free
 - A free optical lab for open-ended experiments
-- A one-time purchase unlocks chambers 4–12
+- A one-time purchase unlocks chambers 4–80
 - No subscription and no game client installation
 - Mouse, touch, keyboard, sliders, and numeric controls
 - Full-screen portrait chambers
@@ -41,11 +41,11 @@ Light sources are part of the level design rather than fixed decoration. A chamb
 | Energy | Makes splitting, filtering, and optical losses part of the budget |
 | Multiple sources | Enables color mixing, opposing routes, and synchronized target conditions |
 
-The free optical lab allows players to experiment with source color, beam width, energy, and angular spread before those ideas appear in more demanding chambers.
+The free optical lab allows players to experiment with source color, beam width, energy, and angular spread alongside the more demanding combinations in the expanded campaign.
 
 ## Multiple Gates and Target Conditions
 
-A chamber may end at one gate or several gates. Later Prism Riddle levels require two, three, or four target conditions to be satisfied at the same time.
+A chamber may end at one gate or several gates. Later Prism Riddle levels require several target conditions, including up to five lit gates and protected dark receivers to be satisfied at the same time.
 
 Targets can require:
 
@@ -83,6 +83,10 @@ A filter passes one wavelength band and absorbs most others. It can select a col
 
 An aperture allows only part of a beam to pass. A light stop absorbs the beam. Both are useful when one gate must be illuminated while another region remains dark.
 
+### Dichroic Mirrors and Neutral Density Filters
+
+Dichroic mirrors pass the marked color and reflect the other bands, creating separate color paths without duplicating energy. Neutral density filters reduce all wavelengths equally so sensitive receivers stay below their total-energy limit. Unequal splitters add 30/70, 40/60 and 60/40 branch budgets.
+
 ## How to Play
 
 1. Find the lamp and follow its beam to the first obstacle.
@@ -103,9 +107,16 @@ The game checks the resulting light rather than comparing the layout with one fi
 | 1–3 · Free | Multi-mirror routing, a two-lens relay, and prism dispersion |
 | 4–6 | Longer reflected routes, twin gates, and protected dark targets |
 | 7–9 | Two colored sources, broad beams, and three-way energy division |
-| 10–12 | A divided spectrum, asymmetric lens paths, and a four-gate finale |
+| 10–12 | The four-gate conclusion to the original observatory |
+| 13–22 | Folded routes across multiple floors |
+| 23–32 | Divergent sources and lens collimation |
+| 33–42 | Unequal splitting, multiple gates and energy limits |
+| 43–52 | Two-source color mixing and protected outputs |
+| 53–62 | Dichroic mirrors, neutral attenuation and sensitive receivers |
+| 63–72 | Tall prism routes and divided spectra |
+| 73–80 | Protected shadows and multi-source summit challenges |
 
-The first formal chamber begins with five instruments. The current final chamber uses 13 instruments and four simultaneous gates. Future chambers can combine fan-shaped light, different source energy, more colored sources, and new multi-target arrangements.
+The first formal chamber begins with five instruments. The current final chamber uses 22 instruments, two differently colored sources, five lit gates and one protected dark target. Every chamber has a saved private reference solution verified with the game’s light simulation, including checks at four ray-sampling resolutions.
 
 ## Prism Games, Light Games, and Prism Rules Searches
 
@@ -121,7 +132,7 @@ Prism Riddle is also unrelated to Blue Prism automation software, Prism Launcher
 
 ### Is Prism Riddle free?
 
-The first three complete chambers and the optical lab are free. Chambers 4–12 are included in the one-time full-game purchase.
+The first three complete chambers and the optical lab are free. Chambers 4–80 are included in the one-time full-game purchase.
 
 ### Is Prism Riddle a Prism Rules game?
 
@@ -137,11 +148,15 @@ Yes. Sources can enter from different positions and directions and can use diffe
 
 ### Can one level have several final targets?
 
-Yes. Current advanced chambers include two, three, and four simultaneous target conditions. Some gates must be lit while other marked targets must stay dark.
+Yes. Current advanced chambers include up to five simultaneous lit gates and multiple protected dark targets. Some gates must be lit while other marked targets must stay dark.
 
 ### Is progress saved?
 
 Layouts, completed chambers, and personal-best times are saved in the current browser. Players with full access can generate a recovery code for another browser.
+
+### Are exact walkthroughs included in the free hints?
+
+Ordinary hints explain routing and optical conditions without publishing exact solution coordinates. Detailed walkthroughs are stored privately; a separate walkthrough purchase feature is planned but is not enabled.
 
 ## More Information
 
