@@ -156,7 +156,19 @@ Layouts, completed chambers, and personal-best times are saved in the current br
 
 ### Are exact walkthroughs included in the free hints?
 
-Ordinary hints explain routing and optical conditions without publishing exact solution coordinates. Detailed walkthroughs are stored privately; a separate walkthrough purchase feature is planned but is not enabled.
+Ordinary hints explain routing and optical conditions without publishing exact solution coordinates. Detailed walkthroughs are available as optional purchases. Every chamber requires an explicit unlock confirmation, including the one free unlock included with a full-game purchase. Cancelling spends nothing; viewing an already unlocked guide does not spend again. Purchases and unlocks are restored together with the purchase recovery code.
+
+## Optional Walkthrough Packages
+
+| Price (USD) | Walkthrough access |
+| --- | --- |
+| $8 | Choose 5 chambers |
+| $10 | Choose 10 chambers |
+| $15 | Choose 20 chambers |
+| $20 | Choose 40 chambers |
+| $50 | Unlimited, including future chambers |
+
+Existing full-game buyers pay the walkthrough package price. New buyers can purchase the full game and a walkthrough pack together for 15% off the combined regional price. Packages are independent purchases with no prorated upgrades. Free route hints remain available.
 
 ## More Information
 
